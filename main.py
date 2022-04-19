@@ -23,11 +23,11 @@ def time():
 
 
 
-label2 = Label(font = "ds-digital 40", background = "black", foreground = "red")
+label2 = Label(font = "ds-digital 40", background = "black", foreground = "white")
 label2.pack(side= "bottom", anchor="se")
 
 
-label = Label(font = "ds-digital 90", background = "black", foreground = "red")
+label = Label(font = "ds-digital 90", background = "black", foreground = "white")
 label.pack(side="top")
 
 
